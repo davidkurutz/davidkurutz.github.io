@@ -786,11 +786,11 @@ button.button-primary:focus {
     *empty spaces
 */
 .space-medium {
-  padding: 50px 0 50px;
+  padding: 25px 0 50px;
 }
 
 .space-small {
-  padding: 50px 0 25px;
+  padding: 25px 0 25px;
 }
 
 .space-extra-small {
