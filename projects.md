@@ -4,8 +4,13 @@ title: Projects
 permalink: /projects/
 ---
 
-## Xorro P2P
-<a href="https://xorro-p2p.github.io">Xorro P2P</a>
+### Xorro P2P
+A Kademlia DHT Backed P2P File Transfer Application built from scratch in Ruby.
+
+[![](/images/xorro_web_ui.gif)](https://xorro-p2p.github.io)
+[project](https://xorro-p2p.github.io) | [github](https://github.com/xorro/xorro-p2p)
+
+***
 
 ### Sushi Website 
 Online ordering for a sushi restaurant using Backbone.js.
@@ -20,7 +25,6 @@ A Trello Clone built with Express.js and Backbone.js
 
 [![](/images/trello2.png)](https://dk-trello-clone.herokuapp.com/b/1/Work-Stuff)
 [![](/images/trello1.png)](https://dk-trello-clone.herokuapp.com/)
-
 [demo](https://dk-trello-clone.herokuapp.com/) | [github](https://github.com/davidkurutz/trello_clone)
 
 ***
