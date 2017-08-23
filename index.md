@@ -4,7 +4,7 @@ title: Hello!
 permalink: /
 ---
 
-I'm a software engineer in New York City with a history in systems administration, music, and teaching.  I am co-creator of [Xorro P2P](https://xorro-p2p.github.io), a Bit-Torrent-like P2P network built from scratch in Ruby.
+I am a software engineer in New York City, with 10 years experience in systems administration, troubleshooting, and project management. Most recently I am co-creator of [Xorro P2P](https://xorro-p2p.github.io), a Bit-Torrent-like P2P network built from scratch in Ruby.
 
 ## Contact me
 
