@@ -4,7 +4,8 @@ title: Projects
 permalink: /projects/
 ---
 
-### Xorro P2P
+### Most Recent:
+## Xorro P2P
 Inspired by BitTorrent, IPFS, and P2P Systems past and current, I set out to build one from scratch. 
 
 Xorro P2P features a full implementation of a Kademlia distributed hash table in Ruby, an administrative web UI built in Sinatra, file sharding and re-assembly, and shard retrieval from multiple sources.
@@ -13,11 +14,13 @@ Xorro P2P features a full implementation of a Kademlia distributed hash table in
 [project](https://xorro-p2p.github.io)
 
 ***
+### Other Projects
+
 #### Trello Clone
 A Trello Clone built with Express.js and Backbone.js.
 
 [![](/images/trello2.png)](https://dk-trello-clone.herokuapp.com/b/1/Work-Stuff)
-[![](/images/trello1.png)](https://dk-trello-clone.herokuapp.com/)
+<!-- [![](/images/trello1.png)](https://dk-trello-clone.herokuapp.com/) -->
 [demo](https://dk-trello-clone.herokuapp.com/)
 
 ***
