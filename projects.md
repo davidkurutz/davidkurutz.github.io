@@ -15,7 +15,14 @@ Xorro P2P features a full implementation of a Kademlia distributed hash table in
 
 ***
 ### Other Projects
+#### Flehr
+A RealTime Chat application built with Rails & React
 
+[![](/images/flehr.png)](https://flehr.herokuapp.com/login)
+<!-- [![](/images/trello1.png)](https://dk-trello-clone.herokuapp.com/) -->
+[demo](https://flehr.herokuapp.com/login)
+
+***
 #### Trello Clone
 A Trello Clone built with Express.js and Backbone.js.
 
